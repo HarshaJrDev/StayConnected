@@ -4,7 +4,7 @@
 // import auth from '@react-native-firebase/auth';
 
 // GoogleSignin.configure({
-//   webClientId: '487676022616-g6j9e5qqp8q9k8rc5cv8ng0g6vlcg0p2.apps.googleusercontent.com', // Replace with your actual web client ID
+//   webClientId: '', // Replace with your actual web client ID
 // });
 
 // export default function GoogleSignIn() {
